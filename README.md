@@ -14,8 +14,8 @@ Sou graduado em Direito e pós-graduado em Direito Civil e Direito Empresarial, 
 ## 
 
 <div align="center">
-  <a href="https://github.com/victorAssuncaoReis/github-readme-stats"><img height="165em" alt="Victor Reis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorAssuncaoReis&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/victorAssuncaoReis/github-readme-stats"><img height="165em" alt="Victor Reis's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorAssuncaoReis&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <a href="https://github.com/victorAssuncaoReis/github-readme-stats"><img height="150em" alt="Victor Reis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorAssuncaoReis&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/victorAssuncaoReis/github-readme-stats"><img height="150em" alt="Victor Reis's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorAssuncaoReis&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 	</a>
 </div>
 
